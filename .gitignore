@@ -1,4 +1,6 @@
 cra-server-ex.graffle
 node_modules
 npm-debug.log
+package-lock.json
 client/build
+client/package-lock.json
